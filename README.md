@@ -1,4 +1,4 @@
-go mod init "bca-code"
-go mod tidy
-go build 
-./bca-code
+- go mod init "bca-code"
+- go mod tidy
+- go build 
+- ./bca-code
